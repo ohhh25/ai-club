@@ -1,4 +1,4 @@
-# [Ayala AI Club](https://github.com/ohhh25/ai-club)
+# Ayala AI Club
 
 <img src="logo.png" width="200" height="200">
 
